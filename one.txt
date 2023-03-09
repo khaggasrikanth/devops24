@@ -1,1 +1,3 @@
 this is storing users id and passwords
+username=srikanth
+password=sri
